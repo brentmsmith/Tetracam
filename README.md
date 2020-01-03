@@ -14,3 +14,8 @@ Required libraries include:
 - OpenCV 4.1
 - QT 12.4
 - Intel TBB U8
+
+Screenshots:
+![Basic UI]()
+
+![Full Screen Mode]()
