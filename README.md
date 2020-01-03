@@ -16,6 +16,7 @@ Required libraries include:
 - Intel TBB U8
 
 Screenshots:
+
 ![Basic UI](https://github.com/brentmsmith/Tetracam/blob/master/BasicUI.png)
 
-![Full Screen Mode]()
+![Full Screen Mode](https://github.com/brentmsmith/Tetracam/blob/master/FullScreen.png)
